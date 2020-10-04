@@ -1,6 +1,6 @@
 IIIT A
  ### Information
- Name - Aditya<br/>
+ Name - Aditya Sharma<br/>
  UserName - im-adi<br/>
 "BILIEVER"<br/>
 "ALWAYS AND FOREVER"<br/>
