@@ -1,10 +1,4 @@
-online editor<br/>
-Eric<br/>
-Anmol<br/>
-Ganganaar<br/>
-Pointless text<br/>
-another text<br/>
-City added<br/>
+IIIT A
  ### Information
  Name - Aditya<br/>
  UserName - im-adi<br/>
